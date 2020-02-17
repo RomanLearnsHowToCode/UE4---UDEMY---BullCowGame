@@ -2,15 +2,17 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 #include "BullCowCartridge.h"
 
-
-
 void UBullCowCartridge::BeginPlay() // When the game starts
 {
     
     Super::BeginPlay();
-    PrintLine(TEXT("Bull & Cows are welcoming a new player!\nCome Closer and press TAB"));
-    //SETTING UP THE GAME
     InitGame();
+
+
+    PrintLine(TEXT("Bull & Cows are welcoming a new player!\nCome Closer and press TAB\nThe hidden word has got: %s.\nIt is %i characters long"), *HiddenWord, HiddenWord.Len());
+    PrintLine(FString::Printf(TEXT("The HiddenWord is: %s"), *HiddenWord));
+    //SETTING UP THE GAME
+    
 
     
 }
@@ -19,6 +21,7 @@ void UBullCowCartridge::OnInput(const FString& Input) // When the player hits en
 {
     ClearScreen();
    // PrintLine(Input);
+   
 
    //Checking PLayerGuess
 
@@ -28,15 +31,19 @@ void UBullCowCartridge::OnInput(const FString& Input) // When the player hits en
 
     } else
     {
-        PrintLine(TEXT("WRONG"));
-        Lives--;
-        PrintLine(TEXT("Lives :" + Lives));
-
-       
+        if (Input.Len() != HiddenWord.Len())
+        {
+          Lives--;   
+          PrintLine(TEXT("Wrong lenght\nLives: " + Lives)); 
+          
+        } else
+        {
+           if(Lives == 0)
+            PrintLine(TEXT("Game Over"));
+        }
+        
     }
      
-
-
      // remove life
      // check if its Isogram
      // Check right number char
