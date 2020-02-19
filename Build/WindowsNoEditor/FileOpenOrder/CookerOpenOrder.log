@@ -341,53 +341,60 @@
 "../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/Grass_LayerInfo.uasset" 340
 "../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/Path_LayerInfo.uasset" 341
 "../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Levels/Level1_BuiltData.uasset" 342
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 343
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/World_Aligned_Blend.uasset" 344
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 345
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel.uasset" 346
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_BrushStrokes_A.uasset" 347
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_BrushStrokes_B.uasset" 348
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Bumpy_N.uasset" 349
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Rock_Cliff_D.uasset" 350
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_ShapeNormal.uasset" 351
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Splotches_A.uasset" 352
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Terrain_Ground_A.uasset" 353
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Terrain_Ground_A_Inst.uasset" 354
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Textures/T_Toy_Cow_M.uasset" 355
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Textures/T_Toy_Cow_N.uasset" 356
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Materials/M_Cow.uasset" 357
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Materials/MI_Cow.uasset" 358
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 359
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Dock_Floor.uasset" 360
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Wood_Sheet_Pillar_Inst.uasset" 361
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Wood_Sheet_Rings_Inst.uasset" 362
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Dock_Pillar.uasset" 363
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Grass_A.uasset" 364
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Grass_Masked.uasset" 365
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Grass_Masked_C_Inst.uasset" 366
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Grass_04.uasset" 367
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Grass_Masked_E_Inst.uasset" 368
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Grass_05.uasset" 369
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Stone_Path.uasset" 370
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Stone_Path_Inst.uasset" 371
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Stone_Path_B.uasset" 372
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Background.uasset" 373
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Background_Inst.uasset" 374
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Bark_A.uasset" 375
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Bark_A_Inst.uasset" 376
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Tree_Cluster_A.uasset" 377
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Type_B_Bark.uasset" 378
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Type_B_Bark_Inst.uasset" 379
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Tree_Type_B.uasset" 380
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 381
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 382
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 383
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base.uasset" 384
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base_Inst.uasset" 385
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base_Solid.uasset" 386
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base_Solid_Inst.uasset" 387
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Tree_Type_B_Leaves.uasset" 388
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Wood_Sheet_Fence_Inst.uasset" 389
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Wood_Fence.uasset" 390
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Meshes/SM_Toy_Cow.uasset" 391
-"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Levels/Level1.umap" 392
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 343
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 344
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 346
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/World_Aligned_Blend.uasset" 347
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 348
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel.uasset" 349
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_BrushStrokes_A.uasset" 350
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_BrushStrokes_B.uasset" 351
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Bumpy_N.uasset" 352
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Rock_Cliff_D.uasset" 353
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_ShapeNormal.uasset" 354
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Splotches_A.uasset" 355
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Terrain_Ground_A.uasset" 356
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Terrain_Ground_A_Inst.uasset" 357
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Textures/T_Toy_Cow_M.uasset" 358
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Textures/T_Toy_Cow_N.uasset" 359
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Materials/M_Cow.uasset" 360
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Materials/MI_Cow.uasset" 361
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 362
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 363
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 364
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 365
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 366
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Dock_Floor.uasset" 367
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Wood_Sheet_Pillar_Inst.uasset" 368
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Wood_Sheet_Rings_Inst.uasset" 369
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Dock_Pillar.uasset" 370
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Textures/T_Grass_A.uasset" 371
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Grass_Masked.uasset" 372
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Grass_Masked_C_Inst.uasset" 373
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Grass_04.uasset" 374
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Grass_Masked_E_Inst.uasset" 375
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Grass_05.uasset" 376
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Stone_Path.uasset" 377
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Stone_Path_Inst.uasset" 378
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Stone_Path_B.uasset" 379
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Background.uasset" 380
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Background_Inst.uasset" 381
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Bark_A.uasset" 382
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Bark_A_Inst.uasset" 383
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Tree_Cluster_A.uasset" 384
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Type_B_Bark.uasset" 385
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Type_B_Bark_Inst.uasset" 386
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Tree_Type_B.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 388
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 390
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base.uasset" 391
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base_Inst.uasset" 392
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base_Solid.uasset" 393
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Tree_Leaf_Base_Solid_Inst.uasset" 394
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Tree_Type_B_Leaves.uasset" 395
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Materials/M_Wood_Sheet_Fence_Inst.uasset" 396
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/Meshes/SM_Wood_Fence.uasset" 397
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Environment/UnrealCow/Meshes/SM_Toy_Cow.uasset" 398
+"../../../../../../Users/Roman/Documents/Unreal Projects/BullCowGame-starter-kit/Content/Levels/Level1.umap" 399

@@ -8,8 +8,8 @@ void UBullCowCartridge::BeginPlay() // When the game starts
     
     Super::BeginPlay();
 
-    FBullCowCount Count;
-    PrintLine(TEXT("Bulls = %i, Cows = %i"), Count.Bulls, Count.Cows);
+    // FBullCowCount Count;
+    // PrintLine(TEXT("Bulls = %i, Cows = %i"), Count.Bulls, Count.Cows);
     
 
 
@@ -117,10 +117,10 @@ void UBullCowCartridge::InitGame() // SetupGame()
     }
 
     // Show player the Bulls and Cows
-    int32 Bulls, Cows; // syntactic sugar
-    GetBullCows(Guess,Bulls,Cows);
+    //int32 Bulls, Cows; // syntactic sugar
+    FBullCowCount Score = GetBullCows(Guess);
 
-    PrintLine(TEXT("You have %i Bulls and %i Cows"), Bulls, Cows);
+    PrintLine(TEXT("You have %i Bulls and %i Cows"), Score.Bulls, Score.Cows);
 
  }
 
@@ -161,10 +161,9 @@ TArray<FString> UBullCowCartridge::GetValidWords(const TArray<FString>& WordList
     return ValidWords;
  }
 
-FBullCowCount UBullCowCartridge::GetBullCows(const FString& Guess, int32& BullCount, int32& CowCount) const // opravit zitra
+FBullCowCount UBullCowCartridge::GetBullCows(const FString& Guess) const // opravit zitra
  {
-     BullCount = 0;
-     CowCount = 0;
+    FBullCowCount Count;
 
      // If the index of Guess is same as index of the Hidden Word, Bull Count++
      // If not a bull was it a cow? If yes CowCount++
@@ -174,7 +173,7 @@ FBullCowCount UBullCowCartridge::GetBullCows(const FString& Guess, int32& BullCo
         if (Guess[GuessIndex] == HiddenWord[GuessIndex])
         {
             // BULL is a char on right space
-            BullCount++;
+            Count.Bulls++;
             continue;
         }
 
@@ -183,10 +182,11 @@ FBullCowCount UBullCowCartridge::GetBullCows(const FString& Guess, int32& BullCo
         if(Guess[GuessIndex] == HiddenWord[HiddenIndex])
         {
             // COWS are chars on the right spot
-            CowCount++;
+            Count.Cows++;
         }
     }
     }
+    return Count;
  }
 
     // WHILE LOOP
